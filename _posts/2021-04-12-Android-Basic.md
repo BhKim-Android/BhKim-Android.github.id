@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-date: 2019-06-14
-title: "Github Page Jekyll 에 카테고리 추가하기"
+date: 2021-04-12
+title: "첫글 연습 - Android 기본 요소"
 description: "지킬에카테고리 설정하기"
 subject: blog
 categories: Android
