@@ -1,13 +1,3 @@
----
-layout: post
-comments: true
-date: 2021-04-12
-title: "첫글 연습 - Android 기본 요소"
-description: "지킬에카테고리 설정하기"
-subject: blog
-categories: Android
-tags: Android
----
 # 첫글 연습 - Android 기본 요소.
 
 ### Android 4대 컴포넌트 개념정리
