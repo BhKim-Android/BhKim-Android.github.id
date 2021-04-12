@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "첫 포스팅 - Android 기본 요소"
+---
+
 # 첫글 연습 - Android 기본 요소.
 
 ### Android 4대 컴포넌트 개념정리
