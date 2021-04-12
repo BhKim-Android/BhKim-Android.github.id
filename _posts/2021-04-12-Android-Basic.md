@@ -86,7 +86,7 @@ Activity, Service, Broadcast receiver를 활성화 하거나 각각의 컴포넌
 
 
 
-이외에 구성요소로는 리소스가 있다.
+이외에 구성요소로는 리소스가 있습니다.
 
 
 
