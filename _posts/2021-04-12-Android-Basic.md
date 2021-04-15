@@ -1,6 +1,8 @@
 ---
+layout: category
 title: "Android 4대요소"
-categories: ['Android']
+category: Android
+permalink: '/category/android'
 ---
 
 # 첫글 연습 - Android 기본 요소.
