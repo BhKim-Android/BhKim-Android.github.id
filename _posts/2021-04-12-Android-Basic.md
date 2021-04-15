@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Android 4대요소"
 categories: ['Android']
 ---
