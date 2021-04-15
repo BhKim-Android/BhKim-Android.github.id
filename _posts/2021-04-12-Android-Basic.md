@@ -2,7 +2,9 @@
 
 ### Android 4대 컴포넌트 개념정리
 
-![img](https://kairo96.gitbooks.io/android/content/pic2/2-1-1.jpg)
+<p align="center">
+  <img src="https://kairo96.gitbooks.io/android/content/pic2/2-1-1.jpg" />
+</p>
 
 - Activities : Activity는 유저 인터페이스를 포함한 하나의 화면을 나타냅니다.
 
