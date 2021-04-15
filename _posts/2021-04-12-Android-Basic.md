@@ -22,7 +22,8 @@
 
 - **Intent**를 통하여 다른 Activity를 호출할수 있습니다. (타앱 포함)
 - Activity는 하나의 Activity만 화면에 노출할수 있습니다. 호출된 Activity는 실행된 순서대로 Back stack에 순차적으로 저장되며 Activity 상태가 변하면 그에맞는 생명주기 메서드가 호출됩니다. 그리고 지금 노출중인 Foreground Activity를 종료하면 백 스텍에서 이전의 Activity가 팝됩니다.
-  <p align="center">
+
+<p align="center">
   <img src="https://developer.android.com/images/fundamentals/diagram_backstack.png?hl=ko" />
 </p>
 
