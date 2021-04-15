@@ -1,3 +1,13 @@
+---
+title:  "Android 기본 요소"
+excerpt: "4대 컴포넌트, 리소스, 매니페스트"
+
+categories:
+  - Android
+tags:
+  - Android
+---
+
 # 첫글 연습 - Android 기본 요소.
 
 ### Android 4대 컴포넌트 개념정리
