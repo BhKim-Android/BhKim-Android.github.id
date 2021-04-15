@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: default
 title: "Android 4대요소"
 category: android
 permalink: '/category/android'
