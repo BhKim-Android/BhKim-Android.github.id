@@ -1,7 +1,7 @@
 ---
 layout: category
 title: "Android 4대요소"
-category: Android
+category: android
 permalink: '/category/android'
 ---
 
