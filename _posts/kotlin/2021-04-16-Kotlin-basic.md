@@ -1,3 +1,9 @@
+---
+title: "Kotlin을 사용해야 하는 이유"
+category: kotlin
+permalink: '/category/kotlin'
+---
+
 # Kotlin을 사용해야 하는 이유.
 
 
