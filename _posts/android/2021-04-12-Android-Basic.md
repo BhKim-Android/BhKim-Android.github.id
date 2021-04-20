@@ -1,5 +1,5 @@
 ---
-title: "Android 4대요소"
+title: "Android 4대 컴포넌트"
 category: android
 permalink: '/category/android'
 ---
