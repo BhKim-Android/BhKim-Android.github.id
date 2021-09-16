@@ -1,8 +1,8 @@
 #category-archive.md
 ---
 title: "Post by Category"
-layout: categories
-permalink: /categories/
+layout: category
+permalink: /category/
 author_profile: true
 ---
 
