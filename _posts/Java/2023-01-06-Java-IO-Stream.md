@@ -1,6 +1,6 @@
 ## IO (InputStream / OutputStream)
 
-### System.out : 자바 API에서 제공하는 콘솔출력을 위한 <span style="color:#ff5a54">OutputStream(PrintStream) 객체</span>
+### System.out : 자바 API에서 제공하는 콘솔출력을 위한 <span style="color:#ff5a54">OutputStream(PrintStream) 객체</span> 
 
 
 
