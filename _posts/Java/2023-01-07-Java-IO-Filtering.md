@@ -2,7 +2,7 @@
 
 ### BufferedInputStream / BufferedOutputStream
 
-입출력과정에서 메모리 버퍼를 사용함으로써 <span style="color:#ff5a54">속도 향상</span> 
+입출력과정에서 메모리 버퍼를 사용함으로써 <span style="color:#ff5a54">속도 향상</span>
 
 ```java
 // 파일 생성
