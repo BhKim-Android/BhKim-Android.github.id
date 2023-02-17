@@ -2,7 +2,7 @@
 
 ### Multicast 통신 매커니즘 -> 그룹 Join을 통한 데이터그램패킷 전송 및 수신
 
-https://user-images.githubusercontent.com/82013205/219537649-c73302b6-4910-44dd-86eb-5d11c4b3425c.png
+<img src="https://user-images.githubusercontent.com/82013205/219537649-c73302b6-4910-44dd-86eb-5d11c4b3425c.png">
 
 | 번호 |                             동작                             |
 | ---- | :----------------------------------------------------------: |
@@ -15,13 +15,13 @@ https://user-images.githubusercontent.com/82013205/219537649-c73302b6-4910-44dd-
 
 ### <span style="color:#ff5a54">송신</span> 매커니즘
 
-https://user-images.githubusercontent.com/82013205/219538932-1c52d960-4465-4973-a428-fa2ea3c8892c.png
+<img src="https://user-images.githubusercontent.com/82013205/219538932-1c52d960-4465-4973-a428-fa2ea3c8892c.png">
 
 #### <span style="color:#ff5a54">send(.)</span> : Multicast Group에 등록(joinGroup())이 안되어 있어도 전송 가능
 
 #### joinGroup(.) -> <span style="color:#ff5a54">send(.)</span> : Multicast Group에 등록되어 있는 경우 DatagramPacket의 수신지 port = MulticastSocket 바인딩 port 이면 자신이 보낸 데이터를 자신도 받음
 
-https://user-images.githubusercontent.com/82013205/219539467-ff180b91-3946-4661-a150-28538e7f390d.png
+<img src="https://user-images.githubusercontent.com/82013205/219539467-ff180b91-3946-4661-a150-28538e7f390d.png">
 
 ### <span style="color:#ff5a54">MulticastSocket</span> -> 가상의 멀티캐스트 그룹에 가입(join)할 수 있는 소켓으로 멀티캐스트을 지원
 
