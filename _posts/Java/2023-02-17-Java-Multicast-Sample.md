@@ -4,7 +4,7 @@
 
 #### <span style="color:#ff5a54">Multicast 통신 예제1</span> -> client간 text 전송 (두 개의 클라이언트가 <span style="color:#ff5a54">Multicast Group에 조인</span>하고 데이터 송수신)
 
-https://user-images.githubusercontent.com/82013205/219555449-199b087d-c086-472c-82fd-217adc1593e2.png
+<img src="https://user-images.githubusercontent.com/82013205/219555449-199b087d-c086-472c-82fd-217adc1593e2.png">
 
 Multicast Group에 조인된 경우 <span style="color:#ff5a54">같은 포트</span>에 바인딩 되어 있으면 자신이 보낸 패킷도 <span style="color:#ff5a54">다시 자신이 수신함</span> 두 클라이언트가 <span style="color:#ff5a54">다른 포트</span>로 바인딩되어 있으면 자신이 보낸 데이터를 자신은 <span style="color:#ff5a54">받지 않음</span>
 
@@ -152,7 +152,7 @@ static void receiveMessage(MulticastSocket mcs) {
 
 #### <span style="color:#ff5a54">Multicast 통신 예제2</span> -> client간 file 전송 (두 개의 클라이언트가 <span style="color:#ff5a54">Multicast Group에 조인</span>하고 File 송수신)
 
-https://user-images.githubusercontent.com/82013205/219557590-6eb54775-6561-4e52-b490-237593c7c6d8.png
+<img src="https://user-images.githubusercontent.com/82013205/219557590-6eb54775-6561-4e52-b490-237593c7c6d8.png">
 
 Multicast Group에 조인된 경우 <span style="color:#ff5a54">같은 포트</span>에 바인딩 되어 있으면 자신이 보낸 패킷도 <span style="color:#ff5a54">다시 자신이 수신함</span> 두 클라이언트가 <span style="color:#ff5a54">다른 포트</span>로 바인딩되어 있으면 자신이 보낸 데이터를 자신은 <span style="color:#ff5a54">받지 않음</span>
 
